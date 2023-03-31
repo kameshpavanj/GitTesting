@@ -1,0 +1,8 @@
+This is aditya
+
+ls -la
+
+git status
+
+git add .
+git add <file name>
